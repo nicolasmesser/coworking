@@ -49,3 +49,16 @@ h1 {
 .caption {
   margin: 0 25px;
 }
+
+.item {
+  position: relative;
+}
+
+.img-banner {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  background-color: #cd6858;
+  color: whitesmoke;
+  padding: 10px;
+}
